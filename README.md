@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @katherine205203
 - 🌱 I’m currently studying Human Resources Management at University of Economics, HCMC, VietNam
+- 👀 I'm interested in the fields of Data Science, HRM
 - 📂 This is my LinkedIn: https://www.linkedin.com/in/katherinebui205203/
 
 <!---
